@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\curso C#\Projetos\Prova Parte 1\Prova Parte 1\bin\Debug\Prova Parte 1.exe.config
+C:\Users\gabri\OneDrive\Área de Trabalho\curso C#\Projetos\Prova Parte 1\Prova Parte 1\bin\Debug\Prova Parte 1.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\curso C#\Projetos\Prova Parte 1\Prova Parte 1\bin\Debug\Prova Parte 1.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\curso C#\Projetos\Prova Parte 1\Prova Parte 1\obj\Debug\Prova Parte 1.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\curso C#\Projetos\Prova Parte 1\Prova Parte 1\obj\Debug\Prova Parte 1.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\curso C#\Projetos\Prova Parte 1\Prova Parte 1\obj\Debug\Prova Parte 1.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\curso C#\Projetos\Prova Parte 1\Prova Parte 1\obj\Debug\Prova Parte 1.pdb
